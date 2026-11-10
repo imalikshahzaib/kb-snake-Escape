@@ -1,0 +1,2383 @@
+fileFormatVersion: 2
+guid: b0c621d99e3cd1648b83fc5fe95460f6
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_1
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 3379
+        width: 147
+        height: 179
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a823137ca26a5da4b9a545e96d010eb1
+      internalID: 1305219361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_2
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 3595
+        width: 147
+        height: 179
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 888dee09d54bed2458385b109c5adb96
+      internalID: 372968557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_3
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 3412
+        width: 147
+        height: 179
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e9e7568f42e38d4cb84da4a37ee0087
+      internalID: -1768129810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_4
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 2680
+        width: 147
+        height: 179
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5400ebf90f40f8441badfc008764e194
+      internalID: 1762732772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_5
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 2677
+        width: 147
+        height: 179
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3185831e4dcde2340a8c84fc0e9c76c5
+      internalID: -834335397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_6
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 2680
+        width: 147
+        height: 179
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9401c4461e033394a8e7297035b65232
+      internalID: -1964712795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_7
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 2862
+        width: 147
+        height: 179
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7cdc75107ca9b94680234b400945c77
+      internalID: 671002029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_9
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 3196
+        width: 147
+        height: 179
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 631502a21c114a746acd02f189c73813
+      internalID: -1323241399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_10
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 3560
+        width: 147
+        height: 179
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff769c2184a38d44d983cb78a9d4988a
+      internalID: -1271874336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_11
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 2860
+        width: 147
+        height: 179
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c02ae137f8b27c346b3db223ff98b636
+      internalID: 1443607474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_14
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 3231
+        width: 147
+        height: 179
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff90e1df16ae28045b5b094bdfb28f71
+      internalID: 2112983214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_15
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 3049
+        width: 147
+        height: 179
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8519cfae657079f448205a3f20956988
+      internalID: -1059424856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_16
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 3049
+        width: 147
+        height: 179
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24c49d75ee31b6544814fab17daa3ad1
+      internalID: 1078608887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_21
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 3044
+        width: 147
+        height: 179
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0c1ba0f382c931459cf1e485d402493
+      internalID: 1886702238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_26
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 3044
+        width: 147
+        height: 179
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e6e675583ce0034eaf50b491aad6637
+      internalID: -2137207989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_27
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 2862
+        width: 147
+        height: 179
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4a79f99008950e4e84f089be5972a01
+      internalID: 354616641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_34
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 2088
+        width: 147
+        height: 179
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a173765b0f60d945ae2ce45d5fc74d1
+      internalID: -109361588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_35
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2232
+        width: 222
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdc76407504091d40aaa844c5c4cda8d
+      internalID: -1806069516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_42
+      rect:
+        serializedVersion: 2
+        x: 1685
+        y: 1906
+        width: 147
+        height: 179
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05117447c5377a04e8b6a1446322bb48
+      internalID: -1816925924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_43
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2005
+        width: 222
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24a1ea5aaaa343346a658d4fdfd9d561
+      internalID: -1014497949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_50
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 1906
+        width: 147
+        height: 179
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c20f1c2e69603974b97341a3b2abc0be
+      internalID: 1264893006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_51
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1779
+        width: 222
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ac4a76020834a3438168d70e7d4233c
+      internalID: 42078663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_52
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 1779
+        width: 222
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ffb9b3ce9861cb4187f8b89f98dcd95
+      internalID: -1906108044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_53
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 1714
+        width: 222
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5fb12d02d5d68f47a9f6816cafe9053
+      internalID: 1798558315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_54
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 1714
+        width: 222
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 948ab39048d0d2f4cb50275ffbcd4a29
+      internalID: -2074190094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_55
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 1714
+        width: 222
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0532613f85cb20c40ad2f4fc4df825ca
+      internalID: -1817968452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_57
+      rect:
+        serializedVersion: 2
+        x: 1382
+        y: 1682
+        width: 222
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a278e5f30692e54aa8b55ca3f457df8
+      internalID: -971417360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_58
+      rect:
+        serializedVersion: 2
+        x: 1611
+        y: 1682
+        width: 222
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a394ae825984ea34cb4ffeaf9dcd064f
+      internalID: -1250831614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_59
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1554
+        width: 222
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f676751b193033f4fbd152dffe4f5ce9
+      internalID: -1078608546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_60
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 1554
+        width: 222
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10ac8edb06948e449b4ee826c93b57db
+      internalID: 1090152684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_61
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 1489
+        width: 222
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcbd28be8ef6bb844a784fa893f51546
+      internalID: 256576940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_62
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 1489
+        width: 222
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0438130919a440548a5e3ec6a767208e
+      internalID: -1703906357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_63
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 1495
+        width: 222
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59d0333975928a047ae61cf43de092c2
+      internalID: -1355252666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_64
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 1489
+        width: 222
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b051a897e8e7584bb225624e47890cf
+      internalID: 533119253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_65
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 1456
+        width: 222
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9385bf9f147152b47a5b73f71d5edd1c
+      internalID: -986150778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_66
+      rect:
+        serializedVersion: 2
+        x: 1631
+        y: 1456
+        width: 222
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dabaadf89ade1bd40b3f472d7dee188d
+      internalID: -1657443769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_67
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1296
+        width: 243
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c0974b859448b94bae4e1edd6ff92c5
+      internalID: -258540326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_68
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 1296
+        width: 222
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94cc71be3941b174aa9e135fe63f99d2
+      internalID: 74490266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_69
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 1262
+        width: 222
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c721268777ba084995ddb18a6007672
+      internalID: 1217474150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_70
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 1262
+        width: 222
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fbcd0211c665ae418e2691c69e50b9b
+      internalID: -1669353866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_71
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 1262
+        width: 222
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0453f6e94ba5ba41af8ff3582623db1
+      internalID: 1660536254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_72
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 1262
+        width: 222
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e30616b95136e65449b77ad9763d806b
+      internalID: 1594459968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_73
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 1228
+        width: 222
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f25fa0c1c9487b040bc7f5ad44f40ae1
+      internalID: 1109089187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_74
+      rect:
+        serializedVersion: 2
+        x: 1631
+        y: 1229
+        width: 222
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96e831a5071295744bd90c4a065403ab
+      internalID: 814755249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_75
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1036
+        width: 243
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f96eaa38ae610ba4ca02fae6204a91a2
+      internalID: 1695189751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_76
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 1036
+        width: 243
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 454234ca7d4b21a46a0e24466c0dcb1c
+      internalID: -52738469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_77
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 1036
+        width: 222
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4ac9ebf864872d43aea79652db412c9
+      internalID: 1152572714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_78
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 1036
+        width: 222
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6724f9306426ba49bba69ac10f27506
+      internalID: 1102667207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_79
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 1036
+        width: 222
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f97df04af75e464293305fbe3111d89
+      internalID: 261860061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_80
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 1036
+        width: 222
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deeaae8459f8fd6448d07b1317711216
+      internalID: 1045385401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_81
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 1001
+        width: 222
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a6661894a213194f87ac477d806abb8
+      internalID: 44343742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_82
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 1003
+        width: 222
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9b56d2cc8b266c40ad0436d12fccc80
+      internalID: 915496987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_83
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 776
+        width: 243
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd99d92f22822ba4db726ba637986a85
+      internalID: 322502951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_84
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 776
+        width: 243
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10cb62bb9a56fc641a1ead4e00e259bb
+      internalID: 758060401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_85
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 776
+        width: 243
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65fa8ea1a6a6793428a8bc5e207eb05a
+      internalID: 207945196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_86
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 776
+        width: 243
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33372c56c68084647b751b02463e1cb5
+      internalID: 537169932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_87
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 777
+        width: 243
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c87b231cb0748ed4faf39afbd74a743c
+      internalID: 97792841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_88
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 776
+        width: 222
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8faecd47e705904c9922451e35a2f27
+      internalID: -667295705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_89
+      rect:
+        serializedVersion: 2
+        x: 1468
+        y: 776
+        width: 222
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb6dbe348ef169843befbba65513c5bb
+      internalID: -1134500690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_90
+      rect:
+        serializedVersion: 2
+        x: 1694
+        y: 776
+        width: 147
+        height: 179
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e8b64b4da72d2440b337ca071f5bc63
+      internalID: -1980657087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_91
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 516
+        width: 243
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d055558659a48e14b8cc5e35fbc432a3
+      internalID: -130776988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_92
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 516
+        width: 243
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 117095dead9db7b41a8a780a7eb2dfe8
+      internalID: -1540731051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_93
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 516
+        width: 243
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bae59f00ab226f6419ec4f47c98ffd22
+      internalID: -1409051620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_94
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 516
+        width: 243
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80eb355f151a300468e88ccaf3b177bd
+      internalID: 618804792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_95
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 516
+        width: 243
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39c27b1a4517a1b458c179582b83d945
+      internalID: 1356047592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_96
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 516
+        width: 243
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb1386b5db74dfc4bb185b249b3ee438
+      internalID: 1947608592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_97
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 516
+        width: 243
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f0e1908e588f1f4a8a1a65bc5366b6d
+      internalID: -1472392657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_98
+      rect:
+        serializedVersion: 2
+        x: 1736
+        y: 516
+        width: 243
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35e9d5387d8976a4ba7e7d3181948e55
+      internalID: -889748393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_99
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 256
+        width: 243
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dcf0019ed5ace44fb34cf5638a6492f
+      internalID: -1613008970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_100
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 256
+        width: 243
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f3fa0369cb52484b8a9e95b3427f13f
+      internalID: -440536354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_101
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 258
+        width: 243
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c42572238e4b6c84db02da6a3ca59eba
+      internalID: 965321478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_102
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 258
+        width: 243
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6c25c308b1094040ab5703d588cc2a6
+      internalID: -447094641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_103
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 256
+        width: 243
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff1100a6db713fd498f973d577c24441
+      internalID: -494241788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_104
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 256
+        width: 243
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b706ee35ed7cc148a0b9bc3ed0e0ad0
+      internalID: 1857145343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_105
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 256
+        width: 243
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3556ba879d1521449000502b611c29d
+      internalID: -1356444098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_106
+      rect:
+        serializedVersion: 2
+        x: 1737
+        y: 256
+        width: 243
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43e2fcf697fa0574583d486880c6a635
+      internalID: -362317564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 243
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deccd9b64ef188d468fd049cf6a409b1
+      internalID: 879209900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 0
+        width: 243
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4d98be250f9855498f11b018effb6f6
+      internalID: -1646382311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 0
+        width: 243
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac37e508a7120114b9bfcf384d278fc0
+      internalID: -1545265869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_110
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 0
+        width: 243
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 795cb5abfa0ccc04cb9cc95eba347a7c
+      internalID: -1938500157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_111
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 0
+        width: 243
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88fee267280b27e4498d44926d9ce878
+      internalID: 2004098984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_112
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 0
+        width: 243
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 879898d1c46d50a498a5bcb12987010b
+      internalID: 1609559675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_113
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 0
+        width: 243
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fafb1993fbd1e149a5e4af787cb9e2b
+      internalID: 218600943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_114
+      rect:
+        serializedVersion: 2
+        x: 1734
+        y: 0
+        width: 243
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9545d849d69a1d049aefd6f2ebec9b7d
+      internalID: 1830180947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_116
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 2677
+        width: 147
+        height: 179
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d26b617e7a8e9a44d9055e639c6dee2c
+      internalID: -1567944506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_117
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 2495
+        width: 147
+        height: 179
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3555080fb58808458498dbdb943a927
+      internalID: -336879759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_118
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 2495
+        width: 147
+        height: 179
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9db9f22f0d123fb4599fc26e3a9723a0
+      internalID: -66006825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_119
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 2454
+        width: 147
+        height: 179
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee7658e7ef6b7d549934b2628ca60eef
+      internalID: -1327512235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_120
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 2459
+        width: 147
+        height: 179
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b82699aa53b688d43892dd8b0ebf190a
+      internalID: 1486327645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_121
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 2269
+        width: 147
+        height: 179
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d0404f0ae525e345a152e46dd9f53f4
+      internalID: -187621621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_122
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 2276
+        width: 147
+        height: 179
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c84d1e73d69647f4580bb78fd3ea8a02
+      internalID: -1216656795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_123
+      rect:
+        serializedVersion: 2
+        x: 1462
+        y: 2276
+        width: 147
+        height: 179
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44a6f31c6a6fe0747b9c6bdb76fc6740
+      internalID: -323282786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_124
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 2635
+        width: 147
+        height: 179
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 319a3936e112ec54a90dd61d9f3f5228
+      internalID: -275391366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_125
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 3231
+        width: 147
+        height: 179
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c9a1b833b3d8f7408d8aaecc88cf6fc
+      internalID: -1451150600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_126
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 3225
+        width: 147
+        height: 179
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7134be7cf28835438e87e2e3fd5131d
+      internalID: -644831001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_127
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 3408
+        width: 147
+        height: 179
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d784e203406c8a44faca62a992e2b43c
+      internalID: 1038851383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 1537655665
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      1: 879209900
+      2: -1646382311
+      3: -1545265869
+      sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_0: 503605025
+      sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_1: 1305219361
+      sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_10: -1271874336
+      sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_100: -440536354
+      sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_101: 965321478
+      sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_102: -447094641
+      sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_103: -494241788
+      sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_104: 1857145343
+      sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_105: -1356444098
+      sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_106: -362317564
+      sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_11: 1443607474
+      sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_110: -1938500157
+      sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_111: 2004098984
+      sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_112: 1609559675
+      sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_113: 218600943
+      sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_114: 1830180947
+      sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_115: 1763051314
+      sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_116: -1567944506
+      sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_117: -336879759
+      sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_118: -66006825
+      sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_119: -1327512235
+      sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_12: 1041895346
+      sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_120: 1486327645
+      sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_121: -187621621
+      sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_122: -1216656795
+      sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_123: -323282786
+      sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_124: -275391366
+      sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_125: -1451150600
+      sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_126: -644831001
+      sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_127: 1038851383
+      sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_13: -1792072362
+      sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_14: 2112983214
+      sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_15: -1059424856
+      sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_16: 1078608887
+      sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_17: 826395559
+      sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_18: -1210215879
+      sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_19: -1828360546
+      sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_2: 372968557
+      sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_20: -1592227200
+      sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_21: 1886702238
+      sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_22: -1423728993
+      sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_23: -976647958
+      sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_24: -1975227722
+      sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_25: 1599352615
+      sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_26: -2137207989
+      sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_27: 354616641
+      sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_28: -1618619291
+      sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_29: -1001050566
+      sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_3: -1768129810
+      sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_30: 1601700017
+      sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_31: 506509268
+      sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_32: -1997994228
+      sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_33: 1012209961
+      sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_34: -109361588
+      sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_35: -1806069516
+      sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_36: 113997776
+      sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_37: -355416832
+      sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_38: 260790988
+      sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_39: 92934498
+      sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_4: 1762732772
+      sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_40: -2012549084
+      sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_41: 467776410
+      sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_42: -1816925924
+      sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_43: -1014497949
+      sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_44: 1658414394
+      sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_45: 805459143
+      sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_46: 289759588
+      sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_47: 309790443
+      sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_48: 48371987
+      sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_49: -308748624
+      sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_5: -834335397
+      sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_50: 1264893006
+      sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_51: 42078663
+      sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_52: -1906108044
+      sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_53: 1798558315
+      sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_54: -2074190094
+      sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_55: -1817968452
+      sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_56: 1316826574
+      sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_57: -971417360
+      sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_58: -1250831614
+      sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_59: -1078608546
+      sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_6: -1964712795
+      sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_60: 1090152684
+      sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_61: 256576940
+      sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_62: -1703906357
+      sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_63: -1355252666
+      sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_64: 533119253
+      sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_65: -986150778
+      sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_66: -1657443769
+      sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_67: -258540326
+      sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_68: 74490266
+      sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_69: 1217474150
+      sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_7: 671002029
+      sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_70: -1669353866
+      sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_71: 1660536254
+      sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_72: 1594459968
+      sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_73: 1109089187
+      sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_74: 814755249
+      sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_75: 1695189751
+      sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_76: -52738469
+      sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_77: 1152572714
+      sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_78: 1102667207
+      sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_79: 261860061
+      sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_8: 2042320490
+      sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_80: 1045385401
+      sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_81: 44343742
+      sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_82: 915496987
+      sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_83: 322502951
+      sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_84: 758060401
+      sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_85: 207945196
+      sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_86: 537169932
+      sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_87: 97792841
+      sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_88: -667295705
+      sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_89: -1134500690
+      sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_9: -1323241399
+      sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_90: -1980657087
+      sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_91: -130776988
+      sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_92: -1540731051
+      sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_93: -1409051620
+      sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_94: 618804792
+      sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_95: 1356047592
+      sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_96: 1947608592
+      sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_97: -1472392657
+      sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_98: -889748393
+      sactx-0-2048x4096-ASTC 6x6-game-atlas-2f5b2a10_99: -1613008970
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

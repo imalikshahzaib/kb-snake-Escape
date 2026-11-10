@@ -1,0 +1,153 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1634749744, guid: bedd0ffcb1fc32d51cef515fec400c5b, type: 3}
+  m_Name: SandBoxIDConfig
+  m_EditorClassIdentifier:
+  version: Ver1
+  ids:
+    ids:
+    - key: 28
+      values:
+      - Snake Escape
+      - Snake Escape
+    - key: 29
+      values:
+      - com.snake.escape.maze.slither.puzzle
+      - com.snake.escape.maze.slither.puzzle
+    - key: 32
+      values:
+      - "{\n  \"project_info\": {\n    \"project_number\": \"679521387887\",\n    \"project_id\": \"snake-escape-gp\",\n    \"storage_bucket\": \"snake-escape-gp.firebasestorage.app\"\n  },\n  \"client\": [\n    {\n      \"client_info\": {\n        \"mobilesdk_app_id\": \"1:679521387887:android:3d2771986a5148111bd49a\",\n        \"android_client_info\": {\n          \"package_name\": \"com.snake.escape.maze.slither.puzzle\"\n        }\n      },\n      \"oauth_client\": [],\n      \"api_key\": [\n        {\n          \"current_key\": \"AIzaSyAPOFiuT-NXIa14lboAsHOJ7IIe61rnG2k\"\n        }\n      ],\n      \"services\": {\n        \"appinvite_service\": {\n          \"other_platform_oauth_client\": []\n        }\n      }\n    }\n  ],\n  \"configuration_version\": \"1\"\n}"
+      - "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<!DOCTYPE plist PUBLIC \"-//Apple//DTD PLIST 1.0//EN\" \"http://www.apple.com/DTDs/PropertyList-1.0.dtd\">\n<plist version=\"1.0\">\n<dict>\n        <key>API_KEY</key>\n        <string>AIzaSyDY-2X2Z3y7cdCgXUc81mXfXKf_Lhv0QVU</string>\n        <key>GCM_SENDER_ID</key>\n        <string>185948429571</string>\n        <key>PLIST_VERSION</key>\n        <string>1</string>\n        <key>BUNDLE_ID</key>\n        <string>com.snake.escape.maze.slither.puzzle</string>\n        <key>PROJECT_ID</key>\n        <string>snake-escape-ios</string>\n        <key>STORAGE_BUCKET</key>\n        <string>snake-escape-ios.firebasestorage.app</string>\n        <key>IS_ADS_ENABLED</key>\n        <false></false>\n        <key>IS_ANALYTICS_ENABLED</key>\n        <false></false>\n        <key>IS_APPINVITE_ENABLED</key>\n        <true></true>\n        <key>IS_GCM_ENABLED</key>\n        <true></true>\n        <key>IS_SIGNIN_ENABLED</key>\n        <true></true>\n        <key>GOOGLE_APP_ID</key>\n        <string>1:185948429571:ios:3ceb634656b8648b6c9d36</string>\n</dict>\n</plist>"
+    - key: 13
+      values:
+      - NPP8BbL-Kg52I3TUlHsRSu8B-aUzVbaIQk5P3dAuHwvBcZXXafDxa-hNagdkZTf8ACTSpkM1KBTIUugQvCXi_-
+      - NPP8BbL-Kg52I3TUlHsRSu8B-aUzVbaIQk5P3dAuHwvBcZXXafDxa-hNagdkZTf8ACTSpkM1KBTIUugQvCXi_-
+    - key: 14
+      values:
+      - c3629b9207ffe243
+      - 1cba6c891a1511d5
+    - key: 15
+      values:
+      - 041e4bc5fecbe593
+      - ab84667633efc6ca
+    - key: 16
+      values:
+      - f7cc066e04b9ae38
+      - 60870ee975865623
+    - key: 0
+      values:
+      - ca-app-pub-9084327244941949~8337818962
+      - ca-app-pub-9084327244941949~5551298474
+    - key: 44
+      values:
+      - af_purchase
+      - af_purchase
+    - key: 30
+      values:
+      - 367313731927748
+      - 741152837096751
+    - key: 31
+      values:
+      - 7c4a8b72b58e9c40b51a64c7ab378a87
+      - a3876fde17673c8e6c7e750761484af8
+    - key: 1
+      values:
+      - 
+      - 
+    - key: 2
+      values:
+      - 
+      - 
+    - key: 3
+      values:
+      - 
+      - 
+    - key: 4
+      values:
+      - 
+      - 
+    - key: 5
+      values:
+      - 
+      - 
+    - key: 6
+      values:
+      - 
+      - 
+    - key: 7
+      values:
+      - 
+      - 
+    - key: 8
+      values:
+      - 
+      - 
+    - key: 9
+      values:
+      - 
+      - 
+    - key: 10
+      values:
+      - 
+      - 
+    - key: 11
+      values:
+      - 
+      - 
+    - key: 12
+      values:
+      - 
+      - 
+    - key: 17
+      values:
+      - ca65f43573ec1236
+      - b241c775cf337326
+    - key: 18
+      values:
+      - 
+      - 
+    - key: 19
+      values:
+      - https://pixelking.store/policy.html
+      - https://pixelking.store/policy.html
+    - key: 20
+      values:
+      - https://www.applovin.com/terms/
+      - https://www.applovin.com/terms/
+    - key: 21
+      values:
+      - 
+      - 
+    - key: 22
+      values:
+      - 
+      - 
+    - key: 23
+      values:
+      - 
+      - 
+    - key: 24
+      values:
+      - 
+      - 
+    - key: 37
+      values:
+      - KmR3MVJWV2jSFLW7fpmDX9
+      - KmR3MVJWV2jSFLW7fpmDX9
+    - key: 38
+      values:
+      - 
+      - 6753841130
+    - key: 33
+      values:
+      - 186
+      - 186
